@@ -1,6 +1,35 @@
 # DSA-DATA-ANALYST-KMS-PROJECT
 Analysis of Kultra Mega Stores (KMS) historical sales, shipping, and customer data (2009-2012) and derive insights to support strategic decisions for the Abuja Division
 
+
+## 📚 Table of Contents
+
+- [DSA-DATA-ANALYST-KMS-PROJECT](#dsa-data-analyst-kms-project)
+- [Detailed Documentation of Each Stage and Analytical Approach Used Throughout the Project Lifecycle](#detailed-documentation-of-each-stage-and-analytical-approach-used-throughout-the-project-lifecycle)
+  - [Project Overview](#project-overview)
+  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+  - [Purpose of EDA in This KMS Case Study](#purpose-of-eda-in-this-kms-case-study)
+  - [EDA Application](#eda-application)
+  - [Impact of EDA in This Case Study](#impact-of-eda-in-this-case-study)
+- [Step 1: Creation of Database and Data Importation](#step-1-creation-of-database-and-data-importation)
+- [Step 2: Data Cleaning](#step-2-data-cleaning)
+- [Step 3: Analysis](#step-3-analysis)
+  - [Case Scenario I: Operational Performance Analysis](#case-scenario-i-operational-performance-analysis)
+    - [Task 1: Which Product Category Had the Highest Sales?](#task-1-which-product-category-had-the-highest-sales)
+    - [Task 2: Top 3 and Bottom 3 Regions by Sales](#task-2-top-3-and-bottom-3-regions-by-sales)
+    - [Task 3: Total Sales of Appliances in Ontario](#task-3-total-sales-of-appliances-in-ontario)
+    - [Task 4: Boosting Revenue from Bottom 10 Customers](#task-4-boosting-revenue-from-bottom-10-customers)
+    - [Task 5: Shipping Method with Highest Cost](#task-5-shipping-method-with-highest-cost)
+  - [Case Scenario II: Customer Value and Profitability Analysis](#case-scenario-ii-customer-value-and-profitability-analysis)
+    - [Task 6: Most Valuable Customers and Purchase Patterns](#task-6-most-valuable-customers-and-purchase-patterns)
+    - [Task 7: Top Small Business Customer](#task-7-top-small-business-customer)
+    - [Task 8: Most Active Corporate Customer (2009–2012)](#task-8-most-active-corporate-customer-20092012)
+    - [Task 9: Most Profitable Consumer Customer](#task-9-most-profitable-consumer-customer)
+    - [Task 10: Customers Who Returned Items and Their Segment](#task-10-customers-who-returned-items-and-their-segment)
+    - [Task 11: Did KMS Use Shipping Cost Efficiently?](#task-11-did-kms-use-shipping-cost-efficiently)
+- [Overall Summary](#overall-summary)
+
+
 ## Detailed Documentation of Each Stage and Analytical Approach Used Throughout the Project Lifecycle
 
 ### Project Overview
